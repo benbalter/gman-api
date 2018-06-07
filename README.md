@@ -1,6 +1,6 @@
 # GMan API
 
-A tiny JSON microservice for [GMan](https://github.com/benbalter/gman).
+A JSON microservice for [GMan](https://github.com/benbalter/gman).
 
 ## Usage
 
